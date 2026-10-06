@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| **Aluno(a)** | Zahara Lacerda |
-| **Matrícula** | [2640742] |
+| **Aluno(a)** | Liynaa Duarte Cury de Lacerda |
+| **Matrícula** | [2640864] |
 | **Faculdade** | Centro Universitário São Lucas-Afya |
 | **Curso** | Ciência da Computação |
 | **Disciplina** | [Programação Web] |
